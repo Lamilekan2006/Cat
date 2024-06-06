@@ -1,0 +1,13 @@
+.country{
+    width:500px;
+    height: 500px;
+    float: left;
+    margin: 20px;
+    
+  
+}
+.city{
+    width: 500px;
+    height:520px;
+    float: left;
+}
